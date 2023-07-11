@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_tabs_array">
+        <item>홈</item>
+        <item>요일별</item>
+        <item>완결작</item>
+        <item>베스트도전</item>
+    </string-array>
+
+    <string-array name="sub_tabs_array">
+        <item>웹툰</item>
+        <item>베스트도전</item>
+    </string-array>
+
+    <string-array name="weekday_tabs_array">
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+        <item>일</item>
+        <item>매일+</item>
+    </string-array>
+
+    <string-array name="type2_sub_tabs_array">
+        <item>웹툰</item>
+        <item>베스트도전</item>
+
+    </string-array>
+
+    <string-array name="type3_sub_tabs_array">
+        <item>10대여자</item>
+        <item>10대남자</item>
+        <item>20대여자</item>
+        <item>20대남자</item>
+        <item>30대여자</item>
+        <item>30대남자</item>
+
+    </string-array>
+</resources>

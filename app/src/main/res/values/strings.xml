@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NaverWebToonRenewal</string>
+    <string name="fixed_web_toon">웹툰</string>
+    <string name="fixed_web_novel">웹소설</string>
+    <string name="fixed_series">시리즈</string>
+    <string name="fixed_before_bar">|</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
